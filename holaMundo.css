@@ -12,3 +12,32 @@
     font-family: 'Joan', serif;
     text-align: center;
 }
+
+.ServicesH2{
+    font-family: 'Joan', serif;
+}
+
+#KGculture{
+    float: right;
+    font-family: 'Joan', serif;
+}
+
+#KGculture img{
+    float: left;
+}
+
+.bgNY{
+    background-image: url(img/bgNY.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+
+.ContactH1, .BCh1{
+    font-family: 'Joan', serif;
+}
+
+.ContactH1{
+    float: right;
+    padding-right: 150px;
+}
